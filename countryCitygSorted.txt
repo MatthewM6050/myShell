@@ -1,0 +1,8 @@
+angola
+beijing
+chongqing
+germany
+hong kong
+nicaraguamiami
+shanghai
+MyShPrompt> 
